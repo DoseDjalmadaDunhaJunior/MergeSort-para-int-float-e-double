@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Merge_Sort.dir/main.cpp.o CMakeFiles/Merge_Sort.dir/MargeSort.cpp.o  -o Merge_Sort 

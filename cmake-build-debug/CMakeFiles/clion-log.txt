@@ -1,0 +1,4 @@
+/home/djalma/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/djalma/09BBDA931A86D9AA1/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/Merge_Sort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/djalma/09BBDA931A86D9AA1/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/Merge_Sort/cmake-build-debug

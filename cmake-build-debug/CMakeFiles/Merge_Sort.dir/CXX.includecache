@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/djalma/09BBDA931A86D9AA1/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/Merge_Sort/MargeSort.h
+iostream
+-
+
+/media/djalma/09BBDA931A86D9AA1/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/Merge_Sort/main.cpp
+MargeSort.h
+/media/djalma/09BBDA931A86D9AA1/paradas_de_algoritmo/Brincadeiras_Segundo_semestre_2020/Merge_Sort/MargeSort.h
+
